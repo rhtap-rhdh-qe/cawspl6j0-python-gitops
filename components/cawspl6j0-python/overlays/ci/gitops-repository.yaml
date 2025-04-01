@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: cawspl6j0-python-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/cawspl6j0-python-gitops
